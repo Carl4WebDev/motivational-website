@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    text-align: center;
+    
+}
+
+.box-img img{
+    border: 10px solid gray;
+    width: 300pt;
+    height: 300pt;
+}
+
+.box-img .text-img p,h4,h3,h2,h1 {
+    color: ghostwhite;
+    padding: 1px;
+    margin: 1px;
+}
+
+
